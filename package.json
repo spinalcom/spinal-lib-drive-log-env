@@ -1,0 +1,19 @@
+{
+  "name": "spinal-lib-drive-log-env",
+  "version": "1.0.0",
+  "description": "core class to create and add plugin in spinaldrive",
+  "main": "index.js",
+  "dependencies": {
+    "spinal-env-drive-core": "https://github.com/spinalcom/spinal-env-drive-core.git",
+    "spinal-env-drive-plugin-base": "https://github.com/spinalcom/spinal-env-drive-plugin-base.git",
+    "spinal-env-drive-pannel-logs": "https://github.com/spinalcom/spinal-env-drive-pannel-logs.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "npm run create_drive_env",
+    "create_drive_env": "create_drive_env -m"
+  },
+  "author": "Laurent HA TAM DAN",
+  "license": "SEE LICENSE IN license.pdf"
+}
