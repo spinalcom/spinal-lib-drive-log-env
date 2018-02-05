@@ -4,7 +4,8 @@
   "description": "core class to create and add plugin in spinaldrive",
   "main": "index.js",
   "dependencies": {
-    "spinal-env-drive-pannel-logs": "https://github.com/spinalcom/spinal-env-drive-pannel-logs.git"
+    "spinal-browser-drive": "git+https://github.com/spinalcom/spinal-browser-drive.git",
+    "spinal-env-drive-pannel-logs": "git+https://github.com/spinalcom/spinal-env-drive-pannel-logs.git"
   },
   "devDependencies": {},
   "scripts": {
