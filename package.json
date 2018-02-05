@@ -6,6 +6,7 @@
   "dependencies": {
     "spinal-env-drive-core": "https://github.com/spinalcom/spinal-env-drive-core.git",
     "spinal-env-drive-plugin-base": "https://github.com/spinalcom/spinal-env-drive-plugin-base.git",
+    "spinal-browser-drive": "https://github.com/spinalcom/spinal-browser-drive.git",
     "spinal-env-drive-pannel-logs": "https://github.com/spinalcom/spinal-env-drive-pannel-logs.git"
   },
   "devDependencies": {},
