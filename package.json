@@ -1,13 +1,13 @@
 {
   "name": "spinal-lib-drive-log-env",
-  "version": "1.0.0",
+  "version": "v1.0.1",
   "description": "core class to create and add plugin in spinaldrive",
   "main": "index.js",
   "dependencies": {
     "spinal-env-drive-core": "https://github.com/spinalcom/spinal-env-drive-core.git",
     "spinal-env-drive-plugin-base": "https://github.com/spinalcom/spinal-env-drive-plugin-base.git",
     "spinal-browser-drive": "https://github.com/spinalcom/spinal-browser-drive.git",
-    "spinal-env-drive-pannel-logs": "https://github.com/spinalcom/spinal-env-drive-pannel-logs.git"
+    "spinal-env-drive-panel-logs": "https://github.com/spinalcom/spinal-env-drive-panel-logs.git"
   },
   "devDependencies": {},
   "scripts": {
